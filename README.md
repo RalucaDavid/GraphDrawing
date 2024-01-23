@@ -5,13 +5,13 @@ First, the user must select the type of graph by selecting a button (it cannot b
 In the Save.txt file, the adjacency matrix of the graph will be saved at each modification of it.
 
 
-Instructions:
+# Instructions:
 
 Press the right mouse button -> draw a node
 
 Press the left mouse button -> select the first node, it turns green, and after the second node from which you want to make an arch
 
-
+# Images
 The appearance of the application:
 ![image](https://github.com/RalucaDavid/GraphDrawing/assets/117584603/a2c245b7-7828-42f9-8fd2-081aad063d7f)
 
