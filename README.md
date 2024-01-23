@@ -5,7 +5,7 @@ First, the user must select the type of graph by selecting a button (it cannot b
 In the Save.txt file, the adjacency matrix of the graph will be saved at each modification of it.
 
 
-# Instructions:
+# Instructions
 
 Press the right mouse button -> draw a node
 
