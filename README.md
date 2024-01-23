@@ -13,5 +13,6 @@ Press the left mouse button -> select the first node, it turns green, and after 
 
 # Images
 The appearance of the application:
+
 ![image](https://github.com/RalucaDavid/GraphDrawing/assets/117584603/a2c245b7-7828-42f9-8fd2-081aad063d7f)
 
